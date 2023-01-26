@@ -20,5 +20,10 @@ Bibliografia de modelos cinemáticos: "Introduction to Autonomous Mobile Robots"
 https://www.youtube.com/@LeoArmesto/playlists
 
 *Por fim, vou adicionar o material do Fanchic.
+https://github.com/David-Chatelard/STR-Projeto2
 
-
+*Outros:
+https://github.com/CoppeliaRobotics
+https://github.com/UnbDroid
+https://github.com/UnbDroid/Open2021
+https://github.com/David-Chatelard/CompInternaDROID
