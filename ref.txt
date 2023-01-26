@@ -1,0 +1,24 @@
+*Comentários do professor: https://youtu.be/Y7SqmdUkOzI
+
+https://www.freertos.org/ -> pyRTOS ou em C (atraso?)
+https://realpython.com/
+py threads (não sei exatamente qual -> falar com a Liz)
+interface de robótica: https://www.coppeliarobotics.com/
+
+*Documentação do Coppelia.
+https://www.coppeliarobotics.com/helpFiles/index.html
+
+*Explica bem a conexão API entre o Python e Coppelia nas aulas 19 e 20.
+https://youtube.com/playlist?list=PL1WrY7PmiW_iwesX41-rS6ddHlvbrpe0O
+
+*Boa playlist de robótica móvel no Coppelia, mas precisamos aprimorar o modelo cinemático.
+https://youtube.com/playlist?list=PL95MRzIafgcdE1YEE87iReF3vCdL5DXtX
+Material da disciplina: https://homepages.dcc.ufmg.br/~doug/cursos/doku.php?id=cursos%3Aroboticamovel%3Aindex
+Bibliografia de modelos cinemáticos: "Introduction to Autonomous Mobile Robots"
+
+*Canal com aplicações no Coppelia.
+https://www.youtube.com/@LeoArmesto/playlists
+
+*Por fim, vou adicionar o material do Fanchic.
+
+
