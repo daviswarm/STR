@@ -2,7 +2,7 @@
 
 https://www.freertos.org/ -> pyRTOS ou em C (atraso?)
 https://realpython.com/
-py threads (não sei exatamente qual -> falar com a Liz)
+py threads ou pthreads (não sei exatamente qual -> falar com a Liz)
 interface de robótica: https://www.coppeliarobotics.com/
 
 *Documentação do Coppelia.
